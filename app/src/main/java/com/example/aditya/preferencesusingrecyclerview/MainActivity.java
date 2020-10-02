@@ -52,6 +52,8 @@ public class MainActivity extends AppCompatActivity implements PersonAdapter.ite
             public void onClick(View v) {
                 people.add(new Person("This User", "***", "train"));
                 myAdapter.notifyDataSetChanged();
+                
+                
             }
         });
 
