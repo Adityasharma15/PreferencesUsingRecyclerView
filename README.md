@@ -1,0 +1,2 @@
+# PreferencesUsingRecyclerView
+So this is my recent project and it uses two key functions of any android app which are RecyclerView and CardView. In this app we indicate the preference of mode of travel of the users using CardView with name, surname and icon of the mode. It uses RecyclerView because it saves a lot of mwmory of the android application. CardView is basically used to enhance the appearance and layout of the application UI. In this app user has option of adding his own preference any number of times. 
